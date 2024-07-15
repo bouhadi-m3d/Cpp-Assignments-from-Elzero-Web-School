@@ -8,3 +8,7 @@ Hi dear visitor, I created this repo to share my C++ assignments' solutions  of 
 
 🔗 Lessons from 009 to 015 : https://elzero.org/cpp-assignments-lesson-9-to-15/
 
+🔗 Lessons from 016 to 023 : https://elzero.org/cpp-assignments-lesson-16-to-23/
+
+🔗 Lessons from 024 to 029 : https://elzero.org/cpp-assignments-lesson-24-to-29/
+
