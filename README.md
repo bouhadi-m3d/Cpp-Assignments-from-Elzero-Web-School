@@ -12,7 +12,7 @@ Hi dear visitor, I created this repo to share my C++ assignments' solutions  of 
 
 🔗 Lessons from 024 to 029 : https://elzero.org/cpp-assignments-lesson-24-to-29/
 
-🔗 Lessons from 024 to 029 : https://elzero.org/cpp-assignments-lesson-30-to-35/
+🔗 Lessons from 030 to 035 : https://elzero.org/cpp-assignments-lesson-30-to-35/
 
-🔗 Lessons from 024 to 029 : https://elzero.org/cpp-assignments-lesson-36-to-37/
+🔗 Lessons from 036 to 037 : https://elzero.org/cpp-assignments-lesson-36-to-37/
 
