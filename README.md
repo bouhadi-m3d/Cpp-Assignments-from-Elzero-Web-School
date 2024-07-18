@@ -16,3 +16,12 @@ Hi dear visitor, I created this repo to share my C++ assignments' solutions  of 
 
 🔗 Lessons from 036 to 037 : https://elzero.org/cpp-assignments-lesson-36-to-37/
 
+🔗 Lessons from 038 to 046 : https://elzero.org/cpp-assignments-lesson-38-to-46/
+
+🔗 Lessons from 047 to 054 : https://elzero.org/cpp-assignments-lesson-46-to-54/
+
+🔗 Lessons from 055 to 066 : https://elzero.org/cpp-assignments-lesson-55-to-66/
+
+🔗 Lessons from 067 to 074 : https://elzero.org/cpp-assignments-lesson-67-to-74/
+
+
