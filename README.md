@@ -1,6 +1,6 @@
 # Cpp-Assignments-from-Elzero-Web-School
 
-Hi dear visitor, I created this repo to share my own C++ assignments' solutions  of Elzero web school C++ course.
+Hi dear visitor, I created this repo to share my own C++ assignments' solutions  of Elzero web school C++ course..
 
 🔗 All Assignments : https://elzero.org/category/assignments/cpp-assignments/
 
