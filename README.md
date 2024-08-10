@@ -4,7 +4,7 @@ Welcome to the repository for C++ assignment solutions from the Elzero Web Schoo
 
 ## Assignment Links
 
-- **All Assignments:   ** [Visit Here](https://elzero.org/category/assignments/cpp-assignments/)
+- **All Assignments:** [Visit Here](https://elzero.org/category/assignments/cpp-assignments/)
 - **Lessons 001 to 008:** [Visit Here](https://elzero.org/cpp-assignments-lesson-1-to-8/)
 - **Lessons 009 to 015:** [Visit Here](https://elzero.org/cpp-assignments-lesson-9-to-15/)
 - **Lessons 016 to 023:** [Visit Here](https://elzero.org/cpp-assignments-lesson-16-to-23/)
