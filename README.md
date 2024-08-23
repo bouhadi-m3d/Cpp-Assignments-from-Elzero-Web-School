@@ -22,5 +22,5 @@ This repository was created to share my personal solutions to the C++ assignment
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or open an issue
+Contributions are welcome! If you have suggestions or improvements, please feel free to submit a pull request or open an issue.
 
