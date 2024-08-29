@@ -2,7 +2,7 @@
 
 Welcome to the repository for C++ assignment solutions from the Elzero Web School C++ course. This repository contains solutions to various assignments to aid in your learning journey.
 
-## Assignment Links
+## Assignment Links:
 
 - **All Assignments:** [Visit Here](https://elzero.org/category/assignments/cpp-assignments/)
 - **Lessons 001 to 008:** [Visit Here](https://elzero.org/cpp-assignments-lesson-1-to-8/)
