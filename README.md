@@ -1,4 +1,4 @@
-# C++ Assignments from Elzero Web School
+# C++ Assignments from Elzero Web School 
 
 Welcome to the repository for C++ assignment solutions from the Elzero Web School C++ course. This repository contains solutions to various assignments to aid in your learning journey.
 
